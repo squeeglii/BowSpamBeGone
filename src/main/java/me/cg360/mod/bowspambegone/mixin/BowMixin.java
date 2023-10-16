@@ -33,10 +33,10 @@ public abstract class BowMixin extends Item {
         this.bowspambegone$hasGivenFullChargeFeedback = false;
         float power = BowItem.getPowerForTime(this.getUseDuration(stack) - timeCharged);
 
-        if(power < 1.0f) {
-            ci.cancel();
-        }
+        if(power >= 1.0f)
+            return;
 
+        ci.cancel();
     }
 
 

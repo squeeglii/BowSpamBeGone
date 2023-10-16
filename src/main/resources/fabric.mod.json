@@ -16,8 +16,7 @@
   "mixins": [ "bowspambegone.mixins.json" ],
   "accessWidener": "bowspambegone.accesswidener",
   "depends": {
-    "fabricloader": ">=${loader_version}",
-    "fabric": "*"
+    "fabricloader": ">=${loader_version}"
   },
   "recommends": {
     "minecraft": "${minecraft_version_support_range}"

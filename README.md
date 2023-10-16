@@ -18,3 +18,9 @@ This mod is *required* on the server-side in order to work. The mod is purely *o
 
 - When added to the server, bow-spam is prevented as arrow spawning is blocked unless the bow is fully drawn back.
 - When added to the client, an audible tick is played when the bow is fully charged, to make the charge more obvious.
+
+
+## ☎️ Contact
+
+- **Discord:** [Support Server or](https://discord.gg/94c45XagEH) @CG360
+- **GitHub:** [/squeeglii](https://github.com/squeeglii)
